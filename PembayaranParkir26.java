@@ -35,5 +35,4 @@ public class PembayaranParkir26 {
         }
         System.out.println("Total Pendapatan Parkir Hari ini: Rp " + total);
     }
-    
 }
